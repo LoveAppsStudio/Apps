@@ -4,6 +4,7 @@
       "id": "1",
       "name": "Front Hand",
       "desc": "Discover beautiful front-hand mehndi designs, perfect for weddings, parties, and everyday elegance!",
+      "catName": "FrontHand",
       "url": "tMaFbrO.png",
       "images": [
         "Sm6ztau.jpg",
@@ -43,6 +44,7 @@
       "id": "2",
       "name": "Back Hand",
       "desc": "Explore elegant back-hand mehndi designs, perfect for weddings, festivals, and special occasions!",
+      "catName": "BackHand",
       "url": "aiu0H0Y.png",
       "images": [
         "tROVMZx.jpg",
@@ -89,6 +91,7 @@
       "id": "3",
       "name": "Gol Tikki",
       "desc": "Find timeless Gol Tikki mehndi designs for a classic and elegant look!",
+      "catName": "GolTikki",
       "url": "VCsFE6P.png",
       "images": [
         "ihxoJ8S.jpg",
@@ -111,6 +114,7 @@
       "id": "4",
       "name": "Wedding",
       "desc": "Explore exquisite wedding mehndi designs to make your big day unforgettable!",
+      "catName": "Wedding",
       "url": "nMv20FB.png",
       "images": [
         "JNRYZNV.jpg",
@@ -175,6 +179,7 @@
       "id": "5",
       "name": "Special",
       "desc": "Find unique and special mehndi designs for every memorable occasion!",
+      "catName": "Special",
       "url": "6SJ4pIy.png",
       "images": [
         "dJ8wM16.jpg",
@@ -227,6 +232,7 @@
       "id": "6",
       "name": "Bridal",
       "desc": "Explore intricate bridal mehndi designs for a stunning and unforgettable wedding look!",
+      "catName": "Bridal",
       "url": "ZLXSosA.png",
       "images": [
         "pMhBahQ.jpg",
@@ -304,6 +310,7 @@
       "id": "7",
       "name": "Arabic",
       "desc": "Discover beautiful Arabic mehndi designs, featuring bold patterns and elegant details!",
+      "catName": "Arabic",
       "url": "J1BiXB9.png",
       "images": [
         "eH9pcBg.jpg",
@@ -332,6 +339,7 @@
       "id": "8",
       "name": "Finger",
       "desc": "Explore stylish finger mehndi designs for a trendy and minimal look!",
+      "catName": "Finger",
       "url": "9ujNzAM.png",
       "images": [
         "rVnX1Ps.jpg",
@@ -403,6 +411,7 @@
       "id": "9",
       "name": "Foot",
       "desc": "Discover beautiful foot mehndi designs to add charm to your special occasions!",
+      "catName": "Foot",
       "url": "jTThGHr.png",
       "images": [
         "ktE1fDt.jpg",
@@ -471,6 +480,7 @@
       "id": "10",
       "name": "Arm",
       "desc": "Discover stunning arm mehndi designs to add elegance and style to your look!",
+      "catName": "Arm",
       "url": "T1tBPLG.png",
       "images": [
         "39UA4R2.jpg",
